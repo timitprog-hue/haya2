@@ -1,0 +1,279 @@
+<!-- HERO PORTFOLIO -->
+<section id="portfolio" class="hero-section py-5 py-lg-6 reveal-scroll">
+    <div class="container">
+        <div class="row align-items-center gy-4 flex-column-reverse flex-lg-row">
+
+            <!-- CARD PINDAH KE KIRI -->
+            <div class="col-lg-5">
+                <div class="glass-card p-4 reveal-scroll animate-delay-1">
+                    <span class="badge-soft mb-3 d-inline-block">
+                        <span class="lang-id">Tipe Proyek</span>
+                        <span class="lang-en">Project Types</span>
+                    </span>
+
+                    <p class="text-muted small mb-3">
+                        <span class="lang-id">
+                            Kami biasa mengerjakan kombinasi antara website, aplikasi internal,
+                            integrasi mesin, dan dashboard monitoring.
+                        </span>
+                        <span class="lang-en">
+                            We typically work on a mix of websites, internal applications,
+                            machine integrations, and monitoring dashboards.
+                        </span>
+                    </p>
+
+                    <ul class="small text-muted mb-0 ps-3">
+                        <li>
+                            <span class="lang-id">Website company profile &amp; landing page</span>
+                            <span class="lang-en">Company profile websites &amp; landing pages</span>
+                        </li>
+                        <li>
+                            <span class="lang-id">Dashboard QC, produksi, dan operasional</span>
+                            <span class="lang-en">QC, production, and operations dashboards</span>
+                        </li>
+                        <li>
+                            <span class="lang-id">Integrasi PLC, sensor, dan mesin pabrik</span>
+                            <span class="lang-en">PLC, sensor, and factory machine integrations</span>
+                        </li>
+                        <li>
+                            <span class="lang-id">IoT &amp; sistem monitoring berbasis web</span>
+                            <span class="lang-en">IoT &amp; web-based monitoring systems</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- TEKS PINDAH KE KANAN -->
+            <div class="col-lg-7">
+                <div class="hero-kicker mb-3">
+                    <span class="hero-kicker-dot"></span>
+                    <span class="lang-id">Portofolio</span>
+                    <span class="lang-en">Portfolio</span>
+                </div>
+
+                <h1 class="hero-title display-5 fw-bold mb-3">
+                    <span class="lang-id">
+                        Contoh proyek yang
+                        sudah kami<br /> kerjakan.
+                    </span>
+                    <span class="lang-en">
+                        Some of the projects
+                        we have<br /> delivered.
+                    </span>
+                </h1>
+
+                <p class="hero-subtitle fs-5 mb-0">
+                    <span class="lang-id">
+                        Berikut adalah ringkasan proyek website, dashboard, IoT, dan otomasi industri
+                        yang pernah kami kerjakan. Proyek-proyek ini bisa menjadi gambaran
+                        solusi yang juga bisa kami terapkan di perusahaan Anda.
+                    </span>
+                    <span class="lang-en">
+                        Below is a summary of websites, dashboards, IoT, and industrial automation
+                        projects we’ve worked on. These examples show the kind of solutions
+                        we can also implement for your company.
+                    </span>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<div class="container mb-5">
+
+    <!-- GRID PORTFOLIO -->
+    <section class="mb-5 reveal-scroll">
+        <div class="d-flex justify-content-between align-items-center mb-3">
+            <h2 class="h3 mb-0">
+                <span class="lang-id">Proyek Terpilih</span>
+                <span class="lang-en">Selected Projects</span>
+            </h2>
+            <small class="text-muted">
+                <span class="lang-id">*Beberapa detail disederhanakan untuk privasi klien</span>
+                <span class="lang-en">*Some details are simplified to protect client privacy</span>
+            </small>
+        </div>
+
+        <div class="portfolio-slider">
+
+            <!-- ITEM 1 -->
+            <div class="portfolio-item">
+                <div class="glass-card hover-lift h-100 p-4">
+                    <span class="badge bg-secondary-subtle border-0 mb-2">Website</span>
+
+                    <h5 class="mb-2">
+                        <span class="lang-id">Website Company Profile Pabrik Manufaktur</span>
+                        <span class="lang-en">Company Profile Website for Manufacturing Factory</span>
+                    </h5>
+
+                    <p class="text-muted small mb-3">
+                        <span class="lang-id">
+                            Website company profile dengan halaman produk, sertifikasi, dan form permintaan penawaran.
+                        </span>
+                        <span class="lang-en">
+                            Company profile website including product pages, certifications, and quotation request form.
+                        </span>
+                    </p>
+
+                    <p class="text-muted small mb-1">
+                        <strong class="lang-id">Teknologi:</strong>
+                        <strong class="lang-en">Tech stack:</strong>
+                        ASP.NET Core, Bootstrap, SQL Server
+                    </p>
+
+                    <p class="text-muted small mb-0">
+                        <strong class="lang-id">Catatan:</strong>
+                        <strong class="lang-en">Note:</strong>
+
+                        <span class="lang-id">Client industri manufaktur (B2B)</span>
+                        <span class="lang-en">Manufacturing industry client (B2B)</span>
+                    </p>
+                </div>
+            </div>
+
+            <!-- ITEM 2 -->
+            <div class="portfolio-item">
+                <div class="glass-card hover-lift h-100 p-4">
+                    <span class="badge bg-secondary-subtle border-0 mb-2">Aplikasi Custom</span>
+
+                    <h5 class="mb-2">
+                        <span class="lang-id">Sistem Aplikasi Custom &amp; Label Print</span>
+                        <span class="lang-en">Custom Application &amp; Label Printing System</span>
+                    </h5>
+
+                    <p class="text-muted small mb-3">
+                        <span class="lang-id">
+                            Aplikasi custom yang dirancang untuk kebutuhan operasional perusahaan.
+                        </span>
+                        <span class="lang-en">
+                            A custom-built application designed for operational workflows.
+                        </span>
+                    </p>
+
+                    <p class="text-muted small mb-1">
+                        <strong class="lang-id">Teknologi:</strong>
+                        <strong class="lang-en">Tech stack:</strong>
+                        ASP.NET Core, MySQL
+                    </p>
+
+                    <p class="text-muted small mb-0">
+                        <strong class="lang-id">Catatan:</strong>
+                        <strong class="lang-en">Note:</strong>
+
+                        <span class="lang-id">
+                            Dikembangkan sesuai kebutuhan operasional di berbagai departemen.
+                        </span>
+                        <span class="lang-en">
+                            Developed based on operational needs across multiple departments.
+                        </span>
+                    </p>
+                </div>
+            </div>
+
+            <!-- ITEM 3 -->
+            <div class="portfolio-item">
+                <div class="glass-card hover-lift h-100 p-4">
+                    <span class="badge bg-secondary-subtle border-0 mb-2">IoT</span>
+
+                    <h5 class="mb-2">
+                        <span class="lang-id">Monitoring Suhu &amp; Timer Mesin</span>
+                        <span class="lang-en">Machine Temperature &amp; Timer Monitoring</span>
+                    </h5>
+
+                    <p class="text-muted small mb-3">
+                        <span class="lang-id">
+                            ESP32 + dashboard untuk memantau suhu proses dan durasi siklus dengan notifikasi otomatis.
+                        </span>
+                        <span class="lang-en">
+                            ESP32 + dashboard for monitoring temperature and cycle duration, with alerts.
+                        </span>
+                    </p>
+
+                    <p class="text-muted small mb-1">
+                        <strong class="lang-id">Teknologi:</strong>
+                        <strong class="lang-en">Tech stack:</strong>
+                        ESP32, Web API, Web Dashboard
+                    </p>
+
+                    <p class="text-muted small mb-0">
+                        <strong class="lang-id">Catatan:</strong>
+                        <strong class="lang-en">Note:</strong>
+
+                        <span class="lang-id">Integrasi ke mesin existing</span>
+                        <span class="lang-en">Integrated with existing machines</span>
+                    </p>
+                </div>
+            </div>
+
+            <!-- ITEM 4 -->
+            <div class="portfolio-item">
+                <div class="glass-card hover-lift h-100 p-4">
+                    <span class="badge bg-secondary-subtle border-0 mb-2">Dashboard</span>
+
+                    <h5 class="mb-2">
+                        <span class="lang-id">Dashboard Produksi Harian</span>
+                        <span class="lang-en">Daily Production Dashboard</span>
+                    </h5>
+
+                    <p class="text-muted small mb-3">
+                        <span class="lang-id">
+                            Dashboard untuk melihat output produksi, downtime, dan efisiensi mesin.
+                        </span>
+                        <span class="lang-en">
+                            Dashboard to monitor production output, downtime, and machine efficiency.
+                        </span>
+                    </p>
+
+                    <p class="text-muted small mb-1">
+                        <strong class="lang-id">Teknologi:</strong>
+                        <strong class="lang-en">Tech stack:</strong>
+                        ASP.NET Core, Chart Library
+                    </p>
+
+                    <p class="text-muted small mb-0">
+                        <strong class="lang-id">Catatan:</strong>
+                        <strong class="lang-en">Note:</strong>
+                        Internal project
+                    </p>
+                </div>
+            </div>
+
+            <!-- ITEM 5 -->
+            <div class="portfolio-item">
+                <div class="glass-card hover-lift h-100 p-4">
+                    <span class="badge bg-secondary-subtle border-0 mb-2">PLC &amp; Automation</span>
+
+                    <h5 class="mb-2">
+                        <span class="lang-id">Integrasi PLC ke Database</span>
+                        <span class="lang-en">PLC Integration to Database</span>
+                    </h5>
+
+                    <p class="text-muted small mb-3">
+                        <span class="lang-id">
+                            Pengambilan data dari PLC ke database untuk monitoring &amp; histori.
+                        </span>
+                        <span class="lang-en">
+                            Retrieving data from PLC into database for monitoring &amp; history logs.
+                        </span>
+                    </p>
+
+                    <p class="text-muted small mb-1">
+                        <strong class="lang-id">Teknologi:</strong>
+                        <strong class="lang-en">Tech stack:</strong>
+                        PLC, OPC / Modbus, Database
+                    </p>
+
+                    <p class="text-muted small mb-0">
+                        <strong class="lang-id">Catatan:</strong>
+                        <strong class="lang-en">Note:</strong>
+
+                        <span class="lang-id">Digunakan untuk laporan harian</span>
+                        <span class="lang-en">Used for daily reporting</span>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+</div>

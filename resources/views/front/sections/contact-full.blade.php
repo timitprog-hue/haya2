@@ -1,0 +1,225 @@
+<!-- HERO SECTION -->
+<section id="contact" class="hero-section py-5 py-lg-6 reveal-scroll">
+    <div class="container">
+        <div class="row align-items-center gy-4">
+            <div class="col-lg-7">
+                <div class="hero-kicker mb-3">
+                    <span class="hero-kicker-dot"></span>
+                    <span class="lang-id">Hubungi Kami</span>
+                    <span class="lang-en">Contact Us</span>
+                </div>
+
+                <h1 class="hero-title display-5 fw-bold mb-3">
+                    <span class="lang-id">
+                        Mulai konsultasi proyek<br />
+                        <span class="hero-highlight">website, aplikasi &amp; otomasi industri.</span>
+                    </span>
+                    <span class="lang-en">
+                        Start consulting your next project<br />
+                        <span class="hero-highlight">website, applications &amp; industrial automation.</span>
+                    </span>
+                </h1>
+
+                <p class="hero-subtitle fs-5 mb-0">
+                    <span class="lang-id">
+                        Tulis kebutuhan Anda, dan kami akan bantu menyiapkan solusi terbaik
+                        berdasarkan kondisi dan proses bisnis di perusahaan Anda.
+                    </span>
+                    <span class="lang-en">
+                        Tell us what you need, and we’ll help prepare the best solution
+                        based on your company’s real conditions and business processes.
+                    </span>
+                </p>
+            </div>
+
+            <div class="col-lg-5">
+                <div class="glass-card p-4 reveal-scroll animate-delay-1">
+                    <span class="badge-soft mb-3 d-inline-block">
+                        <span class="lang-id">Informasi Kontak</span>
+                        <span class="lang-en">Contact Information</span>
+                    </span>
+
+                    <p class="mb-3 text-muted small">
+                        <span class="lang-id">
+                            Anda bisa menghubungi kami melalui WhatsApp, Email, atau melalui form di bawah.
+                        </span>
+                        <span class="lang-en">
+                            You can reach us via WhatsApp, Email, or by using the form below.
+                        </span>
+                    </p>
+
+                    <p class="mb-2">
+                        <strong class="text-light">
+                            <span class="lang-id">WhatsApp:</span>
+                            <span class="lang-en">WhatsApp:</span>
+                        </strong><br />
+                        <a id="waDisplay"
+                           href="https://wa.me/6285179766465"
+                           class="text-decoration-none"
+                           target="_blank">
+                            +62 852-7976-6465
+                        </a>
+                    </p>
+
+                    <p class="mb-2">
+                        <strong class="text-light">
+                            <span class="lang-id">Email:</span>
+                            <span class="lang-en">Email:</span>
+                        </strong><br />
+                        <a id="emailDisplay"
+                           href="mailto:info@hayadev.com"
+                           class="text-decoration-none">
+                            info@hayadev.com
+                        </a>
+                    </p>
+
+                    <p class="text-muted small mb-0">
+                        <span class="lang-id">
+                            Waktu respons: <span class="text-light">Senin – Jumat (08.00–17.00)</span>
+                        </span>
+                        <span class="lang-en">
+                            Response time: <span class="text-light">Monday – Friday (08.00–17.00)</span>
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="container mb-5">
+
+    <!-- FORM KONTAK -->
+    <section class="mb-5 reveal-scroll">
+        <h2 class="h3 mb-3">
+            <span class="lang-id">Form Kontak</span>
+            <span class="lang-en">Contact Form</span>
+        </h2>
+        <p class="text-muted small mb-4">
+            <span class="lang-id">
+                Isi form berikut. Ketika Anda menekan tombol kirim, browser akan membuka WhatsApp
+                dengan pesan yang sudah otomatis tersusun.
+            </span>
+            <span class="lang-en">
+                Fill in the form below. When you press send, your browser will open WhatsApp
+                with a pre-filled message ready to send.
+            </span>
+        </p>
+
+        <div class="glass-card p-4 p-md-5">
+            <form id="contactForm" onsubmit="return sendContact();">
+
+                <div class="row g-4">
+
+                    <div class="col-md-6">
+                        <label class="form-label text-light">
+                            <span class="lang-id">Nama Lengkap</span>
+                            <span class="lang-en">Full Name</span>
+                        </label>
+                        <input type="text" class="form-control theme-input" id="Name" required>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label text-light">
+                            <span class="lang-id">Email</span>
+                            <span class="lang-en">Email</span>
+                        </label>
+                        <input type="email" class="form-control theme-input" id="Email" required>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label text-light">
+                            <span class="lang-id">Nomor WhatsApp</span>
+                            <span class="lang-en">WhatsApp Number</span>
+                        </label>
+                        <input type="text" class="form-control theme-input" id="Phone" required>
+                        <small class="text-muted">
+                            <span class="lang-id">Contoh: 0812xxxxxxx</span>
+                            <span class="lang-en">Example: 0812xxxxxxx</span>
+                        </small>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label text-light">
+                            <span class="lang-id">Judul / Topik</span>
+                            <span class="lang-en">Subject / Topic</span>
+                        </label>
+                        <input type="text" class="form-control theme-input" id="Subject" required>
+                    </div>
+
+                    <div class="col-12">
+                        <label class="form-label text-light">
+                            <span class="lang-id">Pesan</span>
+                            <span class="lang-en">Message</span>
+                        </label>
+                        <textarea class="form-control theme-input"
+                                  id="Message" rows="5" required></textarea>
+                    </div>
+
+                </div>
+
+                <div class="d-flex flex-wrap gap-2 mt-4">
+                    <button type="submit" class="btn btn-primary btn-lg px-4">
+                        <span class="lang-id">Kirim via WhatsApp</span>
+                        <span class="lang-en">Send via WhatsApp</span>
+                    </button>
+
+                    <a id="emailLink"
+                       href="#"
+                       target="_blank"
+                       class="btn btn-outline-light btn-lg px-4">
+                        <span class="lang-id">Kirim via Email</span>
+                        <span class="lang-en">Send via Email</span>
+                    </a>
+                </div>
+
+            </form>
+        </div>
+    </section>
+</div>
+
+@push('scripts')
+<script>
+    function sendContact() {
+        const name = document.getElementById('Name').value.trim();
+        const email = document.getElementById('Email').value.trim();
+        const phone = document.getElementById('Phone').value.trim();
+        const subject = document.getElementById('Subject').value.trim();
+        const message = document.getElementById('Message').value.trim();
+
+        // ==== EDIT NOMOR DAN EMAIL DI SINI ====
+        const waNumber = "6285179766465";
+        const emailAddress = "info@hayadev.com";
+        // ======================================
+
+        const textLines = [
+            "Halo, saya ingin konsultasi.",
+            "",
+            "Nama    : " + name,
+            "Email   : " + email,
+            "WhatsApp: " + phone,
+            "Topik   : " + subject,
+            "",
+            "Pesan:",
+            message
+        ];
+
+        const waText = encodeURIComponent(textLines.join("\n"));
+        const waUrl = "https://wa.me/" + waNumber + "?text=" + waText;
+
+        // Buka WA
+        window.open(waUrl, "_blank");
+
+        // Email fallback
+        const emailBody = encodeURIComponent(textLines.join("\n"));
+        const mailtoUrl = "mailto:" + emailAddress
+            + "?subject=" + encodeURIComponent("[Konsultasi] " + subject)
+            + "&body=" + emailBody;
+
+        const emailLink = document.getElementById('emailLink');
+        emailLink.href = mailtoUrl;
+
+        return false;
+    }
+</script>
+@endpush

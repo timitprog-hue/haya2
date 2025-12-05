@@ -1,0 +1,126 @@
+<section id="home" class="page-section">
+    <div class="hero-section py-5 py-lg-6 reveal-scroll">
+        <div class="container">
+            <div class="row align-items-center gy-4">
+                <div class="col-lg-7">
+                    <div class="hero-kicker mb-3 d-flex align-items-center gap-2">
+                        <span class="hero-kicker-dot"></span>
+                        <span class="lang-id">Perangkat Lunak Industri &amp; Otomasi</span>
+                        <span class="lang-en">Industrial Software &amp; Automation</span>
+                    </div>
+
+                    <h1 class="hero-title display-4 fw-bold mb-3">
+                        <span class="lang-id">
+                            Solusi digital &amp; otomasi<br />
+                            <span class="hero-highlight">yang mendukung operasional harian Anda.</span>
+                        </span>
+                        <span class="lang-en">
+                            Digital &amp; automation solutions<br />
+                            <span class="hero-highlight">for your day-to-day operations.</span>
+                        </span>
+                    </h1>
+
+                    <p class="hero-subtitle fs-5 mb-4">
+                        <span class="lang-id">
+                            Kami membantu mengubah proses manual menjadi sistem yang rapi dan mudah dipantau:
+                            mulai dari website, dashboard, hingga integrasi mesin &amp; sensor.
+                        </span>
+                        <span class="lang-en">
+                            We help turn manual processes into neat, trackable systems:
+                            from websites and dashboards to machine &amp; sensor integration.
+                        </span>
+                    </p>
+
+                    <div class="d-flex flex-wrap gap-2">
+                        <a href="#services" class="btn btn-primary btn-lg px-4 nav-link-scroll" data-target="services">
+                            <span class="lang-id">Lihat Layanan</span>
+                            <span class="lang-en">View Services</span>
+                        </a>
+                        <a href="#contact" class="btn btn-outline-light btn-lg px-4 nav-link-scroll" data-target="contact">
+                            <span class="lang-id">Konsultasi Proyek</span>
+                            <span class="lang-en">Project Consultation</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-5 reveal-scroll animate-delay-1">
+                    <div class="glass-card p-4 p-md-4">
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <span class="badge-soft">
+                                <span class="lang-id">Snapshot Proyek</span>
+                                <span class="lang-en">Project Snapshot</span>
+                            </span>
+                            <span class="small text-muted">
+                                <span class="lang-id">Realtime insight</span>
+                                <span class="lang-en">Realtime insight</span>
+                            </span>
+                        </div>
+
+                        <ul class="list-unstyled mb-3">
+                            <li class="d-flex justify-content-between mb-2">
+                                <div>
+                                    <span class="small text-muted d-block">
+                                        <span class="lang-id">Web &amp; Dashboard</span>
+                                        <span class="lang-en">Web &amp; Dashboard</span>
+                                    </span>
+                                    <span class="fw-semibold">
+                                        <span class="lang-id">Sistem internal &amp; monitoring</span>
+                                        <span class="lang-en">Internal systems &amp; monitoring</span>
+                                    </span>
+                                </div>
+                                <span class="badge bg-primary-subtle text-primary border-0">
+                                    <span class="lang-id">Live</span>
+                                    <span class="lang-en">Live</span>
+                                </span>
+                            </li>
+                            <li class="d-flex justify-content-between mb-2">
+                                <div>
+                                    <span class="small text-muted d-block">
+                                        <span class="lang-id">PLC &amp; Mesin Pabrik</span>
+                                        <span class="lang-en">PLC &amp; Factory Machines</span>
+                                    </span>
+                                    <span class="fw-semibold">
+                                        <span class="lang-id">Otomasi &amp; integrasi sensor</span>
+                                        <span class="lang-en">Automation &amp; sensor integration</span>
+                                    </span>
+                                </div>
+                                <span class="badge bg-success-subtle text-success border-0">
+                                    <span class="lang-id">Stable</span>
+                                    <span class="lang-en">Stable</span>
+                                </span>
+                            </li>
+                            <li class="d-flex justify-content-between">
+                                <div>
+                                    <span class="small text-muted d-block">
+                                        <span class="lang-id">IoT &amp; ESP32</span>
+                                        <span class="lang-en">IoT &amp; ESP32</span>
+                                    </span>
+                                    <span class="fw-semibold">
+                                        <span class="lang-id">Monitoring suhu &amp; timer</span>
+                                        <span class="lang-en">Temperature &amp; timer monitoring</span>
+                                    </span>
+                                </div>
+                                <span class="badge bg-info-subtle text-info border-0">
+                                    <span class="lang-id">Connected</span>
+                                    <span class="lang-en">Connected</span>
+                                </span>
+                            </li>
+                        </ul>
+
+                        <p class="small text-muted mb-0">
+                            <span class="lang-id">
+                                Mulai dari konsep hingga implementasi, kami bantu memilih teknologi
+                                yang paling masuk akal untuk kondisi dan budget perusahaan Anda.
+                            </span>
+                            <span class="lang-en">
+                                From concept to implementation, we help choose the most reasonable technology
+                                for your company’s needs and budget.
+                            </span>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

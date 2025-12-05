@@ -1,0 +1,307 @@
+<section id="about" class="hero-section py-5 py-lg-6 reveal-scroll">
+    <div class="container">
+        <div class="row align-items-center gy-4">
+
+            {{-- CARD PROFIL SINGKAT – KIRI DI DESKTOP --}}
+            <div class="col-lg-5 order-lg-1">
+                <div class="glass-card p-4 reveal-scroll animate-delay-1">
+                    <span class="badge-soft mb-3 d-inline-block">
+                        <span class="lang-id">Profil Singkat</span>
+                        <span class="lang-en">Short Profile</span>
+                    </span>
+                    <p class="text-muted small mb-3">
+                        <span class="lang-id">
+                            Berawal dari kebutuhan nyata di pabrik dan lingkungan industri,
+                            kami melihat banyak proses yang masih manual dan sulit dimonitor.
+                        </span>
+                        <span class="lang-en">
+                            Starting from real needs in factories and industrial environments,
+                            we saw many processes that are still manual and difficult to monitor.
+                        </span>
+                    </p>
+                    <p class="text-muted small mb-2">
+                        <span class="lang-id">
+                            Dari situ kami membangun layanan yang menggabungkan:
+                        </span>
+                        <span class="lang-en">
+                            From there, we built services that bring together:
+                        </span>
+                    </p>
+                    <ul class="small text-muted mb-0 ps-3">
+                        <li>
+                            <span class="lang-id">Pengembangan software (web &amp; dashboard)</span>
+                            <span class="lang-en">Software development (web &amp; dashboards)</span>
+                        </li>
+                        <li>
+                            <span class="lang-id">Pemrograman mesin &amp; PLC</span>
+                            <span class="lang-en">Machine &amp; PLC programming</span>
+                        </li>
+                        <li>
+                            <span class="lang-id">Integrasi IoT &amp; sistem monitoring</span>
+                            <span class="lang-en">IoT integration &amp; monitoring systems</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            {{-- TEKS ABOUT – KANAN DI DESKTOP --}}
+            <div class="col-lg-7 order-lg-2">
+                <div class="hero-kicker mb-3 ms-lg-auto">
+                    <span class="hero-kicker-dot"></span>
+                    <span class="lang-id">Tentang Kami</span>
+                    <span class="lang-en">About Us</span>
+                </div>
+                <h1 class="hero-title display-5 fw-bold mb-3">
+                    <span class="lang-id">
+                        Menghubungkan dunia digital<br />
+                        dengan dunia industri Anda.
+                    </span>
+                    <span class="lang-en">
+                        Connecting the digital world<br />
+                        with your industrial operations.
+                    </span>
+                </h1>
+                <p class="hero-subtitle fs-5 mb-0">
+                    <span class="lang-id">
+                        Kami fokus membangun website, aplikasi, dan solusi otomasi industri
+                        yang benar-benar dipakai di lapangan — bukan sekadar tampilan,
+                        tapi membantu tim Anda bekerja lebih rapi, cepat, dan terukur.
+                    </span>
+                    <span class="lang-en">
+                        We focus on building websites, applications, and industrial automation
+                        solutions that are actually used on the shop floor — not just good
+                        looking UIs, but tools that help your team work more neatly, faster,
+                        and in a more measurable way.
+                    </span>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<div class="container mb-5">
+
+    {{-- KEUNGGULAN --}}
+    <section class="mb-5 reveal-scroll animate-delay-1">
+        <h2 class="h3 mb-3">
+            <span class="lang-id">Mengapa Bekerja dengan Kami?</span>
+            <span class="lang-en">Why Work With Us?</span>
+        </h2>
+
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="glass-card hover-lift p-4 h-100">
+                    <h5 class="mb-2">
+                        <span class="lang-id">Paham Dunia Industri</span>
+                        <span class="lang-en">Understanding Industry</span>
+                    </h5>
+                    <p class="text-muted small mb-0">
+                        <span class="lang-id">
+                            Kami tidak hanya paham coding, tapi juga mengerti alur kerja di pabrik,
+                            QC, gudang, dan operasional sehingga solusi yang dibuat lebih relevan
+                            dengan kondisi nyata di lapangan.
+                        </span>
+                        <span class="lang-en">
+                            We don’t just understand code, we understand how factories, QC,
+                            warehouses, and operations work — so the solutions we build are
+                            relevant to real-world conditions.
+                        </span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="glass-card hover-lift p-4 h-100">
+                    <h5 class="mb-2">
+                        <span class="lang-id">End-to-End Solution</span>
+                        <span class="lang-en">End-to-End Solution</span>
+                    </h5>
+                    <p class="text-muted small mb-0">
+                        <span class="lang-id">
+                            Mulai dari website company profile, sistem internal, integrasi IoT,
+                            hingga pemrograman PLC — Anda bisa mengelola semuanya dengan satu tim
+                            pengembang yang saling terkoneksi.
+                        </span>
+                        <span class="lang-en">
+                            From company profile websites and internal systems to IoT integration
+                            and PLC programming — you can manage everything with one connected
+                            development team.
+                        </span>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="glass-card hover-lift p-4 h-100">
+                    <h5 class="mb-2">
+                        <span class="lang-id">Custom Sesuai Kebutuhan</span>
+                        <span class="lang-en">Custom to Your Needs</span>
+                    </h5>
+                    <p class="text-muted small mb-0">
+                        <span class="lang-id">
+                            Setiap perusahaan punya kebutuhan unik. Kami merancang sistem berdasarkan
+                            proses bisnis yang benar-benar berjalan, bukan template yang dipaksakan.
+                        </span>
+                        <span class="lang-en">
+                            Every company has unique needs. We design systems based on your actual
+                            business processes, not a rigid template forced onto your workflow.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{-- TEKNOLOGI --}}
+    <section class="mb-5 reveal-scroll animate-delay-2">
+        <h2 class="h3 mb-3">
+            <span class="lang-id">Teknologi yang Kami Gunakan</span>
+            <span class="lang-en">Technologies We Use</span>
+        </h2>
+
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="glass-card hover-lift p-4 h-100">
+                    <h6 class="mb-2">
+                        <span class="lang-id">Website &amp; Aplikasi Web</span>
+                        <span class="lang-en">Websites &amp; Web Apps</span>
+                    </h6>
+                    <p class="text-muted small mb-0">
+                        <span class="lang-id">
+                            ASP.NET Core (C#), Laravel, Next.js, Node.js — disesuaikan dengan
+                            kebutuhan dan lingkungan server yang tersedia.
+                        </span>
+                        <span class="lang-en">
+                            ASP.NET Core (C#), Laravel, Next.js, Node.js — chosen based on your
+                            needs and existing server environment.
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="glass-card hover-lift p-4 h-100">
+                    <h6 class="mb-2">
+                        <span class="lang-id">Database</span>
+                        <span class="lang-en">Databases</span>
+                    </h6>
+                    <p class="text-muted small mb-0">
+                        <span class="lang-id">
+                            SQL Server, MySQL, PostgreSQL — dengan struktur yang dirancang untuk
+                            mudah di-maintain dan dikembangkan ke depannya.
+                        </span>
+                        <span class="lang-en">
+                            SQL Server, MySQL, PostgreSQL — with structures designed to be easy
+                            to maintain and extend in the future.
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="glass-card hover-lift p-4 h-100">
+                    <h6 class="mb-2">
+                        <span class="lang-id">Industri &amp; IoT</span>
+                        <span class="lang-en">Industry &amp; IoT</span>
+                    </h6>
+                    <p class="text-muted small mb-0">
+                        <span class="lang-id">
+                            PLC (Mitsubishi, Omron, Siemens), Arduino, ESP32, Raspberry Pi — untuk
+                            otomasi mesin, monitoring, dan integrasi data ke dashboard.
+                        </span>
+                        <span class="lang-en">
+                            PLC (Mitsubishi, Omron, Siemens), Arduino, ESP32, Raspberry Pi —
+                            for machine automation, monitoring, and data integration to dashboards.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{-- CARA KERJA --}}
+    <section class="mb-5 reveal-scroll animate-delay-3">
+        <h2 class="h3 mb-3">
+            <span class="lang-id">Cara Kami Bekerja</span>
+            <span class="lang-en">How We Work</span>
+        </h2>
+
+        <div class="row g-4">
+            <div class="col-md-3">
+                <div class="glass-card p-3 p-md-4 h-100 text-center">
+                    <div class="display-6 mb-2">1</div>
+                    <h6 class="mb-2">
+                        <span class="lang-id">Diskusi &amp; Analisis</span>
+                        <span class="lang-en">Discussion &amp; Analysis</span>
+                    </h6>
+                    <p class="small text-muted mb-0">
+                        <span class="lang-id">
+                            Kami mendengarkan kebutuhan dan mempelajari alur kerja di perusahaan
+                            Anda terlebih dahulu.
+                        </span>
+                        <span class="lang-en">
+                            We listen to your needs and study your company’s workflows first.
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="glass-card p-3 p-md-4 h-100 text-center">
+                    <div class="display-6 mb-2">2</div>
+                    <h6 class="mb-2">
+                        <span class="lang-id">Perancangan Solusi</span>
+                        <span class="lang-en">Solution Design</span>
+                    </h6>
+                    <p class="small text-muted mb-0">
+                        <span class="lang-id">
+                            Kami menyusun rancangan sistem, fitur, dan teknologi yang paling cocok,
+                            disertai estimasi waktu dan biaya.
+                        </span>
+                        <span class="lang-en">
+                            We design systems, features, and technologies that fit best —
+                            along with time and cost estimates.
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="glass-card p-3 p-md-4 h-100 text-center">
+                    <div class="display-6 mb-2">3</div>
+                    <h6 class="mb-2">
+                        <span class="lang-id">Pengembangan &amp; Uji Coba</span>
+                        <span class="lang-en">Development &amp; Testing</span>
+                    </h6>
+                    <p class="small text-muted mb-0">
+                        <span class="lang-id">
+                            Sistem dikembangkan tahap demi tahap, lalu diuji bersama dengan tim Anda
+                            di lingkungan nyata.
+                        </span>
+                        <span class="lang-en">
+                            The system is developed step by step, then tested together with your team
+                            in real environments.
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="glass-card p-3 p-md-4 h-100 text-center">
+                    <div class="display-6 mb-2">4</div>
+                    <h6 class="mb-2">
+                        <span class="lang-id">Implementasi &amp; Support</span>
+                        <span class="lang-en">Implementation &amp; Support</span>
+                    </h6>
+                    <p class="small text-muted mb-0">
+                        <span class="lang-id">
+                            Setelah go-live, kami tetap siap membantu untuk maintenance,
+                            penyesuaian, dan pengembangan lanjutan.
+                        </span>
+                        <span class="lang-en">
+                            After go-live, we remain available to help with maintenance,
+                            adjustments, and further development.
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>
